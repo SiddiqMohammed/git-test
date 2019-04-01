@@ -1,2 +1,2 @@
-#GIT-TEST
+#GITTEST
 This is a test
